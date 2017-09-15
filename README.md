@@ -19,7 +19,7 @@ Edit config.json file.
 If you do not have the correct database yet:
 
 ```bash
-$ python create_database.py
+$ python app/create_database.py
 ```
 
 ## Running
