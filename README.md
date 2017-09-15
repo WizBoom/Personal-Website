@@ -10,7 +10,7 @@ $ cd WizBlog
 $ virtualenv -p python3.6 env
 $ . env/bin/activate
 $ pip install -r requirements.txt
-$ cp app/config.json.example app/config.json
+$ cp config.json.example config.json
 ```
 
 Edit config.json file.
@@ -19,7 +19,7 @@ Edit config.json file.
 If you do not have the correct database yet:
 
 ```bash
-$ python app/create_database.py
+$ python create_database.py
 ```
 
 ## Running
