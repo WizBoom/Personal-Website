@@ -10,7 +10,7 @@ $ cd WizBlog
 $ virtualenv -p python3.6 env
 $ . env/bin/activate
 $ pip install -r requirements.txt
-$ cp config.json.example config.json
+$ cp app/config.json.example config.json
 ```
 
 Edit config.json file.
