@@ -1,5 +1,5 @@
 # WizBlog
-A simple framework for a blog.
+A simple framework for a blog allowing for the usage of markdown.
 
 ## Installation
 Download, install the python prerequisited, and copy / edit the config:
